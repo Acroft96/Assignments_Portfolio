@@ -1,0 +1,2 @@
+Goal:
+Introduction to Mongo and RESTful API with Node and Express. React is avoided in this assignment so as not to overwhelm. A React frontend will come later. (Note that normally a majority of developers prefer developing a front end first, and I agree with them. But for now, this will suffice.)
